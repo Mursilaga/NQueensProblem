@@ -153,6 +153,10 @@
   <ItemGroup>
     <ClCompile Include="NQueensProblem.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="first_try.h" />
+    <ClInclude Include="recursively.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
